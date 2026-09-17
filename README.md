@@ -29,7 +29,6 @@
 - Software Testing & QA
 - Authentication & API Security
 - System Design & Architecture
-- Microservices Architecture
 - Git & GitHub
 - Software Development Practices
 
